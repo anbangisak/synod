@@ -1,0 +1,14 @@
+{
+  "name": "base_synod",
+  "version": "1.0.0",
+  "description": "Synod",
+  "main": "index.js",
+  "scripts": {
+    "test": "base_synod"
+  },
+  "keywords": [
+    "base"
+  ],
+  "author": "GisAk",
+  "license": "ISC"
+}
